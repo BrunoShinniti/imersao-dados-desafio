@@ -1,5 +1,4 @@
 # Imersão de Dados 3
-
 por Alura Cursos
 
 Este projeto apresenta dados de experimentos e resultados na área da Biologia. Onde podemos ver a ação das drogas e como elas se comportam com os genes e celulas, trazendo também os Mecanismos de Ações que essas drogas ativam ou não.
